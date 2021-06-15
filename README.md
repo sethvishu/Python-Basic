@@ -1,2 +1,2 @@
 # Python-Basic
-this is python basic repository with python basic concepts, notes and  Quiz
+This is Python basic repository with python basic concepts, notes and  Quiz
